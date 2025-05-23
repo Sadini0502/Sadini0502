@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Sadini0502/Sadini0502/blob/main/data-science.png?raw=true" alt="Sadini Shishara" width="150" style="border-radius: 50%;" />
+      <img src="https://github.com/Sadini0502/Sadini0502/blob/main/Sadini.jpg?raw=true?raw=true" alt="Sadini Shishara" width="150" style="border-radius: 50%;" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h1>Hi 👋, I'm Sadini Shishara Pathirangani Rathnayaka 🤓</h1>
