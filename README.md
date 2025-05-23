@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sadini Shishara Pathirangani Rathnayaka 🤓</h1>
-<h3 align="center">A passionate data science student from Sri Lanka, exploring crime patterns through machine learning for a safer society.</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Sadini0502/Sadini0502/blob/main/data-science.png?raw=true" alt="Sadini Shishara" width="150" style="border-radius: 50%;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h1>Hi 👋, I'm Sadini Shishara Pathirangani Rathnayaka 🤓</h1>
+      <h3>A passionate data science student from Sri Lanka, exploring crime patterns through machine learning for a safer society.</h3>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github.com/Sadini0502/Sadini0502/blob/main/data-science.png?raw=true" alt="Sadini Shishara" width="200" style="border-radius: 50%;" />
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadini0502&label=Profile%20views&color=0e75b6&style=flat" alt="sadini0502" /> </p>
 
