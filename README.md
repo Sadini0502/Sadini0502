@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data science student from Sri Lanka, exploring crime patterns through machine learning for a safer society.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadini0502&label=Profile%20views&color=0e75b6&style=flat" alt="sadini0502" /> </p>
-
+---
 - 🔭 I’m currently working on **Sri Lankan crime pattern identification using news : A machine learning approach**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Facial Recognition**
