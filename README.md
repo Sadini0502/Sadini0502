@@ -17,6 +17,20 @@
 
 - ⚡ Fun fact **Call me as Sada**
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadini0502&show_icons=true&theme=default&locale=en" alt="sadini0502 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadini0502&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadini0502&theme=default" alt="GitHub Streak Stats" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sadini shishara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadini shishara" height="30" width="40" /></a>
